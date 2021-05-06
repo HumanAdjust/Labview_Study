@@ -14,11 +14,11 @@
 		<Item Name="Add Artist.vi" Type="VI" URL="../Add Artist.vi"/>
 		<Item Name="Create DB.vi" Type="VI" URL="../Create DB.vi"/>
 		<Item Name="DB Path.vi" Type="VI" URL="../DB Path.vi"/>
+		<Item Name="Delete Album.vi" Type="VI" URL="../../../../Backup/Labview SQLite/Data/SQLite Demo LV2013/SQLite Demo LV2013/Delete Album.vi"/>
 		<Item Name="Demo.vi" Type="VI" URL="../Demo.vi"/>
 		<Item Name="Get Artist Names and IDs.vi" Type="VI" URL="../Get Artist Names and IDs.vi"/>
 		<Item Name="Show DB.vi" Type="VI" URL="../Show DB.vi"/>
 		<Item Name="Update Album.vi" Type="VI" URL="../Update Album.vi"/>
-		<Item Name="제목없음 1" Type="VI"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
@@ -27,6 +27,7 @@
 				<Item Name="JDP Timestamp.lvlib" Type="Library" URL="/&lt;vilib&gt;/JDP Science/JDP Science Common Utilities/Timestamp/JDP Timestamp.lvlib"/>
 				<Item Name="JDP Utility.lvlib" Type="Library" URL="/&lt;vilib&gt;/JDP Science/JDP Science Common Utilities/JDP Utility.lvlib"/>
 				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/numeric/LVNumericRepresentation.ctl"/>
+				<Item Name="LVRowAndColumnTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRowAndColumnTypeDef.ctl"/>
 				<Item Name="LVRowAndColumnUnsignedTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRowAndColumnUnsignedTypeDef.ctl"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="Path To Command Line String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Path To Command Line String.vi"/>
